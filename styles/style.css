@@ -1,0 +1,9 @@
+#box ul li {
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border: 15px solid black;
+    list-style: none;
+    background-color: aqua;
+}
+
